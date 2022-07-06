@@ -1,0 +1,15 @@
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\obj\Debug\net6.0\TallerN°2.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\obj\Debug\net6.0\TallerN°2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\obj\Debug\net6.0\TallerN°2.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\obj\Debug\net6.0\TallerN°2.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\obj\Debug\net6.0\TallerN°2.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\bin\Debug\net6.0\TallerN°2.exe
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\bin\Debug\net6.0\TallerN°2.deps.json
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\bin\Debug\net6.0\TallerN°2.runtimeconfig.json
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\bin\Debug\net6.0\TallerN°2.dll
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\bin\Debug\net6.0\TallerN°2.pdb
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\obj\Debug\net6.0\TallerN°2.dll
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\obj\Debug\net6.0\refint\TallerN°2.dll
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\obj\Debug\net6.0\TallerN°2.pdb
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\obj\Debug\net6.0\TallerN°2.genruntimeconfig.cache
+C:\Users\Rafael\source\repos\TallerN°2\TallerN°2\obj\Debug\net6.0\ref\TallerN°2.dll
